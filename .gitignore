@@ -1,2 +1,5 @@
-/census_data.csv
-/cleaned_census_data.csv
+*.csv
+
+#/census_data.csv
+#/cleaned_census_data.csv
+#/feature_engineered.csv
